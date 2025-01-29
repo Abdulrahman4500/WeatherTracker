@@ -8,3 +8,8 @@ Primary features:
 ○ User-friendly interface
 
 test
+
+Tools that i uill use:
+O HTML
+o CSS
+o JavaScript
