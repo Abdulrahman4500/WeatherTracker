@@ -6,3 +6,5 @@ Primary features:
 ○ Real-time weather updates
 ○ City search functionality
 ○ User-friendly interface
+
+test
